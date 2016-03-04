@@ -1,10 +1,7 @@
-Punctul 1:
 
 Am creat o structura care contine starea urmatoare, simbolul ce trebuie scris si directia in care trebuie sa mearga cursorul, date urmand a fi citite din fisier.
 Am citit din fisier tot continutul, punand-ul in variabilele aferente iar apoi am inceput executarea masinii Turing.
 Am inceput cu cursorul pe pozitia 1 si am continuat executarea masinii pana cand aceasta s-a terminat.
-
-Punctul 2:
 
 Am comparat de fiecare data prima cifra a primului numar cu prima din cel de-al doilea numar: daca erau egale le inlocuiam cu # pe ambele iar daca erau diferite stergeam toata banda si lasam doar raspunsul. 
 OBS: Daca era ultima cifra, o lasam scrisa pe banda, comparam cu a doua si in urma rezultatului puneam # pe a 2-a si pe prima scriam raspunsul.
